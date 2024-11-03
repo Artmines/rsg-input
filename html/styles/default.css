@@ -51,7 +51,7 @@ body {
     border-radius: 5%;
     padding: 1.5rem;
     display: none;
-    background-image: url('https://cdn.discordapp.com/attachments/1087918341022294016/1208475169899937882/inkroller_1a.png?ex=65e36b34&is=65d0f634&hm=d9cc0e51a2d1f8ce4b1a3ec0ac2f50d1912f2464ee57a1a883e9a01b507bdc6a&') !important;
+    background-image: url('https://media.discordapp.net/attachments/1215852042531246080/1300131164169830471/image.png?ex=671fb900&is=671e6780&hm=b953a26cb03cefdd519d4e639fdfd911801ac00b0c2c3692a2847e8fbedc6eb0&=&format=webp&quality=lossless&width=419&height=670') !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 97%;
@@ -62,7 +62,7 @@ body {
     justify-content: center;
     overflow: wrap;
     margin-bottom: 5px;
-    background-image: url('https://cdn.discordapp.com/attachments/1087918341022294016/1208475170151604365/menu_header_1a.png?ex=65e36b34&is=65d0f634&hm=4046cd7c0ab34e5ebce77c297d03191f3705e966797b29972176d6526e45a62d&');
+    background-image: url('https://raw.githubusercontent.com/Artmines/rsg-menu/refs/heads/main/html/menu_header_1a.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -105,7 +105,7 @@ body {
     font-size: 14px;
     border-radius: 5px;
     margin: 5px 0px;
-    background-image: url('https://cdn.discordapp.com/attachments/1087918341022294016/1208475170990202980/selection_box_bg_1d.png?ex=65e36b35&is=65d0f635&hm=564e947c903a78d5b20ffcfb8da09ef2c2641570bca5ad705ccdb3d86e968801&') !important;
+    background-image: url('https://github.com/Artmines/rsg-menu/blob/main/html/selection_box_bg_1d.png?raw=true') !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 97%;
@@ -123,7 +123,7 @@ body {
 }
 
 .form-input-group {
-    background-image: url('https://cdn.discordapp.com/attachments/1087918341022294016/1208475170990202980/selection_box_bg_1d.png?ex=65e36b35&is=65d0f635&hm=564e947c903a78d5b20ffcfb8da09ef2c2641570bca5ad705ccdb3d86e968801&') !important;
+    background-image: url('https://github.com/Artmines/rsg-menu/blob/main/html/selection_box_bg_1d.png?raw=true') !important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 97%;
@@ -171,7 +171,7 @@ body {
 
 .form-select {
     width: 100%;
-    background-image: url('https://cdn.discordapp.com/attachments/1087918341022294016/1208475170990202980/selection_box_bg_1d.png?ex=65e36b35&is=65d0f635&hm=564e947c903a78d5b20ffcfb8da09ef2c2641570bca5ad705ccdb3d86e968801&');
+    background-image: url('https://github.com/Artmines/rsg-menu/blob/main/html/selection_box_bg_1d.png?raw=true');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -201,7 +201,7 @@ body {
 }
 
 .form-select option:hover {
-    background-image: url('https://cdn.discordapp.com/attachments/1087918341022294016/1208475170990202980/selection_box_bg_1d.png?ex=65e36b35&is=65d0f635&hm=564e947c903a78d5b20ffcfb8da09ef2c2641570bca5ad705ccdb3d86e968801&');
+    background-image: url('https://github.com/Artmines/rsg-menu/blob/main/html/selection_box_bg_1d.png?raw=true');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -232,7 +232,7 @@ body {
     width: 100%;
     height: 50px;
     font-size: 16px;
-    background-image: url('https://cdn.discordapp.com/attachments/1087918341022294016/1208475170990202980/selection_box_bg_1d.png?ex=65e36b35&is=65d0f635&hm=564e947c903a78d5b20ffcfb8da09ef2c2641570bca5ad705ccdb3d86e968801&');
+    background-image: url('https://github.com/Artmines/rsg-menu/blob/main/html/selection_box_bg_1d.png?raw=true');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
